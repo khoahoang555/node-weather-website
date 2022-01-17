@@ -1,5 +1,3 @@
-console.log("this is demo file javascript!");
-
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 const messageOne = document.querySelector('#message-1');
